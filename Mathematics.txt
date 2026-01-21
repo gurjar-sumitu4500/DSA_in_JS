@@ -1,0 +1,22 @@
+Permutation - It is the systematic arrangement of all or part of a set of objects, where 
+the order of objects matters. 
+Formulae - P(n, r) = n!/ (n-r)! where n is total set of items and r is items to be arranged
+Example - Choose 2 winners who will get gold and silver out of total 10 people. (n = 10, r = 2)
+1st person gets gold, 2nd gets silver is not same as 2nd gets gold and 1st silver
+123 =! 321
+Permutation without repetition of element - P(n, r) = n!/(n-r)!
+Permutation with repetition of element - P(n, r) = n**r;
+
+Combination - it is a way of selecting items from a collection such that the order of
+selection does not matter.
+Formulae - C (n , r) = n!/ r!(n - r)!
+Example - Choose 3 friends to go on trip from 10 friends. Here it does not matter who is 
+chosen first. 
+1st friend chosen to go 1st and 2nd chosen to go 2nd is same as 2nd chosen to go 1st and
+1st chosen to go 2nd. 
+
+Key Diff
+Feature            Permutation                     Combination
+Focus              Arrangement or Sequence         Selection or grouping
+Order              Matters(eg 123 != 321)          Does not matter(eg {A, B} == {B, A})
+Outcomes           Always more(multiple per group) Always Fewer(redundancy is removed)
