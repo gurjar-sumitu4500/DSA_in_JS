@@ -1,0 +1,24 @@
+{
+  "name": "dsa_in_js",
+  "version": "1.0.0",
+  "description": "Welcome to my Daily DSA Problem Solutions repository! Here, you'll find solutions to a variety of Data Structures and Algorithms (DSA) problems that I solve on a daily basis. 💻",
+  "main": "Problem_48_Rotate-Image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurjar-sumitu4500/DSA_in_JS.git"
+  },
+  "keywords": [],
+  "author": "Sumit Kumar <gurjar.sumitu4500@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gurjar-sumitu4500/DSA_in_JS/issues"
+  },
+  "homepage": "https://github.com/gurjar-sumitu4500/DSA_in_JS#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
